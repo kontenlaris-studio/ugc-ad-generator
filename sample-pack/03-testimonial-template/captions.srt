@@ -1,0 +1,39 @@
+1
+00:00:00,000 --> 00:00:04,400
+[TEMPLATE — ganti setiap baris dengan pengalaman aslimu sendiri sebelum merekam.]
+
+2
+00:00:04,400 --> 00:00:07,200
+[Ceritakan jujur apa yang kamu pakai sebelumnya.]
+
+3
+00:00:07,200 --> 00:00:12,400
+[Ceritakan hal pertama yang kamu sadari setelah pindah ke Starter Kit UMKM Digital.]
+
+4
+00:00:12,400 --> 00:00:15,600
+[Ceritakan satu hal spesifik yang ia kerjakan untukmu:]
+
+5
+00:00:15,600 --> 00:00:20,400
+InvoiceKit versi offline: generator invoice satu file HTML yang jalan tanpa internet.
+
+6
+00:00:20,400 --> 00:00:26,000
+Empat workflow n8n siap pakai: catat order, pengingat bayar, rekap harian, dan balas lead.
+
+7
+00:00:26,000 --> 00:00:30,000
+Lima template spreadsheet: kas, stok, harga, rekap penjualan, dan piutang.
+
+8
+00:00:30,000 --> 00:00:34,000
+Panduan mulai lima hari, dari pasang sampai toko berjalan sendiri.
+
+9
+00:00:34,000 --> 00:00:36,800
+Tapi ini bagian yang jarang ditunjukkan orang.
+
+10
+00:00:36,800 --> 00:00:40,400
+Ada pertanyaan? Tulis di komentar — semuanya saya baca.

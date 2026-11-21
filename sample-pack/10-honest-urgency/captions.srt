@@ -1,0 +1,35 @@
+1
+00:00:00,000 --> 00:00:04,800
+Tanpa hitung mundur palsu — ini alasan sebenarnya kenapa harus dibenahi sekarang.
+
+2
+00:00:04,800 --> 00:00:10,400
+Musim ramai selalu menghukum sistem yang berantakan — dan musim ramai selalu datang lagi.
+
+3
+00:00:10,400 --> 00:00:14,800
+Starter Kit UMKM Digital (Rp249.000) adalah beres-beres yang kamu pasang sekali:
+
+4
+00:00:14,800 --> 00:00:19,600
+InvoiceKit versi offline: generator invoice satu file HTML yang jalan tanpa internet.
+
+5
+00:00:19,600 --> 00:00:25,200
+Empat workflow n8n siap pakai: catat order, pengingat bayar, rekap harian, dan balas lead.
+
+6
+00:00:25,200 --> 00:00:29,200
+Lima template spreadsheet: kas, stok, harga, rekap penjualan, dan piutang.
+
+7
+00:00:29,200 --> 00:00:33,200
+Panduan mulai lima hari, dari pasang sampai toko berjalan sendiri.
+
+8
+00:00:33,200 --> 00:00:36,000
+Tapi ini bagian yang jarang ditunjukkan orang.
+
+9
+00:00:36,000 --> 00:00:39,600
+Ada pertanyaan? Tulis di komentar — semuanya saya baca.

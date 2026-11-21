@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI UGC Ad Generator — Kontenlaris Studio</title>
+<meta name="description" content="One product in, ten filmable UGC-style ad variants out: scripts, shot lists, timed captions and hooks — with a built-in fake-claim guard.">
+<style>
+:root{--navy:#0a1931;--navy2:#12294d;--orange:#ff7a00;--ink:#14213d;--mut:#5a6b84;--line:#e3e9f2;--bg:#f6f8fb}
+*{box-sizing:border-box}body{margin:0;font:16px/1.6 system-ui,Segoe UI,Roboto,sans-serif;color:var(--ink);background:var(--bg)}
+header{background:linear-gradient(135deg,var(--navy),var(--navy2));color:#fff;padding:50px 20px 38px;text-align:center}
+.mark{width:56px;height:56px;border-radius:14px;background:var(--orange);color:var(--navy);font-weight:900;font-size:22px;display:flex;align-items:center;justify-content:center;margin:0 auto 14px}
+h1{margin:0 0 8px;font-size:30px}header p{color:#b9c7dd;max-width:660px;margin:0 auto}
+.wrap{max-width:920px;margin:0 auto;padding:24px 20px 60px}
+.card{background:#fff;border:1px solid var(--line);border-radius:16px;padding:20px;margin-top:18px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:16px}
+.chain{display:flex;gap:8px;flex-wrap:wrap;justify-content:center;margin-top:14px}
+.chain span{background:#fff;border:1px solid var(--line);border-radius:999px;padding:6px 14px;font-size:13.5px;color:var(--ink)}
+.btn{background:var(--orange);color:#fff;border:0;font-weight:800;padding:11px 22px;border-radius:999px;cursor:pointer;text-decoration:none;display:inline-block}
+.btn.ghost{background:#fff;color:var(--navy);border:1px solid var(--line)}
+.price{border:2px solid var(--orange);border-radius:16px;padding:22px;text-align:center;background:#fff}
+.price .n{font-size:28px;font-weight:900;color:var(--navy)}
+pre{background:var(--navy);color:#dbe6f5;border-radius:10px;padding:14px;overflow:auto;font-size:13px;white-space:pre-wrap}
+footer{background:var(--navy);color:#b9c7dd;text-align:center;padding:22px;font-size:14px}footer a{color:#ffb066}
+table{width:100%;border-collapse:collapse;font-size:14.5px}td,th{padding:6px 8px;border-bottom:1px solid var(--line);text-align:left}
+</style></head><body>
+<header><div class="mark">KL</div><h1>Ten UGC ads for your product — written, shot-listed, guarded</h1>
+<p>A human UGC video costs $50–150 each. This generator turns one product description into ten filmable ad variants — script, shot list, timed captions and hook line for every angle — and checks every line for fake claims before it ships.</p>
+<div class="chain"><span>🔍 Trend Scout — angles</span><span>→</span><span>🛍️ UGC Ad Generator — 10 variants</span><span>→</span><span>🎙️ Talking-Head Kit — render</span><span>→</span><span>✂️ ClipSmith — captions</span></div></header>
+<div class="wrap">
+<div class="grid">
+<div class="card"><h3>🎬 10 proven angles</h3><p style="color:var(--mut)">Problem/solution, unboxing, testimonial template, comparison, claim-free before/after, FAQ, myth-bust, routine, gift and honest urgency. Every variant is a complete production pack, not just an idea.</p></div>
+<div class="card"><h3>🛡️ The guard is the feature</h3><p style="color:var(--mut)">A deterministic banned-claim checker screens every script: no invented results, no fake discounts, no false scarcity, no medical or financial promises. Anything that trips it is withheld and reported.</p></div>
+<div class="card"><h3>🎙️ Renders with the studio chain</h3><p style="color:var(--mut)">Scripts ship in the exact Talking-Head pipeline format — add one product photo and your voice file (yours, or any TTS you choose) and the pipeline renders the finished vertical video.</p></div>
+</div>
+<div class="card"><h2 style="margin-top:0">Run it (free, offline)</h2>
+<pre>python3 ugc.py --product product.json --out my-ads/
+# → 10 variant folders · script.txt · shotlist.md
+#   captions.srt · hook.txt · compliance.md</pre>
+<p style="color:var(--mut)">A complete real sample pack — for the studio's own Starter Kit UMKM Digital, in Indonesian — ships in the repo, compliance report included. Self-test: 9/9.</p>
+<a class="btn ghost" href="https://github.com/kontenlaris-studio/ugc-ad-generator">Get the generator on GitHub</a>
+<a class="btn ghost" href="https://ugc-ad-studio.skillsafe.ai/">Try the studio app</a></div>
+<div class="card"><h2 style="margin-top:0">Built on the studio chain</h2>
+<p style="color:var(--mut)">🎬 <a href="https://kontenlaris-studio.github.io/story-to-shorts/">Story-to-Shorts</a> supplies the retention framework (hook ≤ 3s, mid-point turn, comment-earning close) · 🎙️ <a href="https://kontenlaris-studio.github.io/talking-head-kit/">Talking-Head Kit</a> renders script + photo + voice into vertical video · ✂️ <a href="https://kontenlaris-studio.github.io/clipsmith/">ClipSmith</a> plans captions and clips.</p>
+<p style="color:var(--mut)">Honest scope: the testimonial variant is a labelled template with placeholders for a creator's own real experience — never a fabricated review. Voice is yours; there is no built-in voice cloning. Scripts can only repeat the benefits you supply.</p></div>
+<div class="card"><h2 style="margin-top:0">Kit &amp; done-for-you packs</h2>
+<div class="grid">
+<div class="price"><div class="n">$39</div><b>UGC Ad Generator Kit — one-time</b><p style="color:var(--mut)">The free generator, plus 40 extra angle templates, worked packs for 6 product categories and a creator-brief template.</p></div>
+<div class="price"><div class="n">$29 / $49</div><b>Done-for-you video packs</b><p style="color:var(--mut)">5 finished videos for $29, or 10 for $49 — scripts, renders and captions delivered, from your product facts.</p></div>
+</div>
+<p style="text-align:center;color:var(--mut)">Order: <a href="mailto:kontenlaris.studio@gmail.com?subject=UGC%20Ad%20Generator%20order">kontenlaris.studio@gmail.com</a> (PayPal) · or use the hosted studio on <a href="https://ugc-ad-studio.skillsafe.ai/">SkillSafe</a></p></div>
+</div>
+<footer>Kontenlaris Studio · <a href="https://github.com/kontenlaris-studio">GitHub</a> · <a href="https://t.me/KontenlarisBuilds">Build log</a></footer>
+</body></html>

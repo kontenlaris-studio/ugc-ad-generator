@@ -1,0 +1,35 @@
+1
+00:00:00,000 --> 00:00:04,000
+Toko yang sama, hari yang sama — cuma prosesnya beda.
+
+2
+00:00:04,000 --> 00:00:07,600
+Sebelum: semua manual, catatan tercecer, total dihitung dua kali.
+
+3
+00:00:07,600 --> 00:00:13,200
+Sesudah pasang Starter Kit UMKM Digital: pekerjaan yang sama, satu alur. Yang berubah prosesnya:
+
+4
+00:00:13,200 --> 00:00:18,000
+InvoiceKit versi offline: generator invoice satu file HTML yang jalan tanpa internet.
+
+5
+00:00:18,000 --> 00:00:23,600
+Empat workflow n8n siap pakai: catat order, pengingat bayar, rekap harian, dan balas lead.
+
+6
+00:00:23,600 --> 00:00:27,600
+Lima template spreadsheet: kas, stok, harga, rekap penjualan, dan piutang.
+
+7
+00:00:27,600 --> 00:00:31,600
+Panduan mulai lima hari, dari pasang sampai toko berjalan sendiri.
+
+8
+00:00:31,600 --> 00:00:34,400
+Tapi ini bagian yang jarang ditunjukkan orang.
+
+9
+00:00:34,400 --> 00:00:38,000
+Ada pertanyaan? Tulis di komentar — semuanya saya baca.

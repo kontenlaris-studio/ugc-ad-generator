@@ -1,0 +1,35 @@
+1
+00:00:00,000 --> 00:00:03,200
+Lagi cari hadiah yang benar-benar kepakai? Tonton ini.
+
+2
+00:00:03,200 --> 00:00:09,600
+Ini Starter Kit UMKM Digital, Rp249.000, dan dibuat untuk pemilik toko kecil dan penjual online Indonesia.
+
+3
+00:00:09,600 --> 00:00:11,200
+Yang benar-benar diterima penerimanya:
+
+4
+00:00:11,200 --> 00:00:16,000
+InvoiceKit versi offline: generator invoice satu file HTML yang jalan tanpa internet.
+
+5
+00:00:16,000 --> 00:00:21,600
+Empat workflow n8n siap pakai: catat order, pengingat bayar, rekap harian, dan balas lead.
+
+6
+00:00:21,600 --> 00:00:25,600
+Lima template spreadsheet: kas, stok, harga, rekap penjualan, dan piutang.
+
+7
+00:00:25,600 --> 00:00:29,600
+Panduan mulai lima hari, dari pasang sampai toko berjalan sendiri.
+
+8
+00:00:29,600 --> 00:00:32,400
+Tapi ini bagian yang jarang ditunjukkan orang.
+
+9
+00:00:32,400 --> 00:00:36,000
+Ada pertanyaan? Tulis di komentar — semuanya saya baca.

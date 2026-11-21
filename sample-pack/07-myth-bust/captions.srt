@@ -1,0 +1,35 @@
+1
+00:00:00,000 --> 00:00:04,800
+Banyak yang bilang begini soal Starter Kit UMKM Digital. Itu tidak benar.
+
+2
+00:00:04,800 --> 00:00:08,000
+Mitosnya: alat seperti ini cuma untuk bisnis besar.
+
+3
+00:00:08,000 --> 00:00:14,000
+Faktanya: Starter Kit UMKM Digital dibuat untuk pemilik toko kecil dan penjual online Indonesia. Isinya:
+
+4
+00:00:14,000 --> 00:00:18,800
+InvoiceKit versi offline: generator invoice satu file HTML yang jalan tanpa internet.
+
+5
+00:00:18,800 --> 00:00:24,400
+Empat workflow n8n siap pakai: catat order, pengingat bayar, rekap harian, dan balas lead.
+
+6
+00:00:24,400 --> 00:00:28,400
+Lima template spreadsheet: kas, stok, harga, rekap penjualan, dan piutang.
+
+7
+00:00:28,400 --> 00:00:32,400
+Panduan mulai lima hari, dari pasang sampai toko berjalan sendiri.
+
+8
+00:00:32,400 --> 00:00:35,200
+Tapi ini bagian yang jarang ditunjukkan orang.
+
+9
+00:00:35,200 --> 00:00:38,800
+Ada pertanyaan? Tulis di komentar — semuanya saya baca.

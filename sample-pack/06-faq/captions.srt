@@ -1,0 +1,31 @@
+1
+00:00:00,000 --> 00:00:02,800
+Pertanyaan yang paling sering masuk soal ini:
+
+2
+00:00:02,800 --> 00:00:06,800
+"Dapat apa saja sih dengan Rp249.000?" Pertanyaan wajar. Kamu dapat:
+
+3
+00:00:06,800 --> 00:00:11,600
+InvoiceKit versi offline: generator invoice satu file HTML yang jalan tanpa internet.
+
+4
+00:00:11,600 --> 00:00:17,200
+Empat workflow n8n siap pakai: catat order, pengingat bayar, rekap harian, dan balas lead.
+
+5
+00:00:17,200 --> 00:00:21,200
+Lima template spreadsheet: kas, stok, harga, rekap penjualan, dan piutang.
+
+6
+00:00:21,200 --> 00:00:25,200
+Panduan mulai lima hari, dari pasang sampai toko berjalan sendiri.
+
+7
+00:00:25,200 --> 00:00:28,000
+Tapi ini bagian yang jarang ditunjukkan orang.
+
+8
+00:00:28,000 --> 00:00:31,600
+Ada pertanyaan? Tulis di komentar — semuanya saya baca.

@@ -1,0 +1,35 @@
+1
+00:00:00,000 --> 00:00:03,600
+Ini sekarang jadi bagian rutinitas harian saya. Ini alasannya.
+
+2
+00:00:03,600 --> 00:00:06,800
+Setiap hari sekarang dimulai dengan cara yang sama.
+
+3
+00:00:06,800 --> 00:00:09,600
+Starter Kit UMKM Digital menangani bagian ini:
+
+4
+00:00:09,600 --> 00:00:14,400
+InvoiceKit versi offline: generator invoice satu file HTML yang jalan tanpa internet.
+
+5
+00:00:14,400 --> 00:00:20,000
+Empat workflow n8n siap pakai: catat order, pengingat bayar, rekap harian, dan balas lead.
+
+6
+00:00:20,000 --> 00:00:24,000
+Lima template spreadsheet: kas, stok, harga, rekap penjualan, dan piutang.
+
+7
+00:00:24,000 --> 00:00:28,000
+Panduan mulai lima hari, dari pasang sampai toko berjalan sendiri.
+
+8
+00:00:28,000 --> 00:00:30,800
+Tapi ini bagian yang jarang ditunjukkan orang.
+
+9
+00:00:30,800 --> 00:00:34,400
+Ada pertanyaan? Tulis di komentar — semuanya saya baca.
